@@ -1,3 +1,5 @@
+![alt text](https://github.com/VolshevskyAlex/child_game_comuter_vision/blob/main/title.jpg)
+
 This project demonstrate an approach how to match images that shifted rotated and scaled.
 Child funny game "the double" taken for illustration.
 Mathematical theory was described in 
